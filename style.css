@@ -67,7 +67,7 @@ button{
      
 .Image3{
     border-radius: 50%;
-    height: 200px;
+    height: 300px;
     width: 200px;
     
 
@@ -84,9 +84,6 @@ h2{
 }
 span{
     color: rgb(54, 104, 234);;
-}
-.Image4{
-
 }
 .Image5{
     height: 200px;
@@ -121,6 +118,7 @@ span{
 .container4{
     display: flex;
     justify-content: space-between;
+    margin: 10%;
 
 
 
@@ -136,7 +134,9 @@ span{
 }
 #Testimonial{
     text-align: center;
-    justify-content: space-between;
+
+    
+
 
 }
 #container7{
@@ -171,7 +171,14 @@ span{
 #fig{
     display: flex;
     justify-content: space-between;
+    margin: 10%;
+    
 
+}
+
+#global{
+    text-align: center;
+    margin: 10%;
 }
 @media all and (max-width:500px)
 {body}
