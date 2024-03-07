@@ -1,0 +1,177 @@
+#body{
+    background-color: white;
+    
+}
+#topnav{
+    display: flex;
+    justify-content: center; 
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+.H{
+   margin: 2%;
+   padding: 20px;
+
+}
+.A{
+    margin: 2%;
+    padding: 20px;
+    -webkit-text-fill-color: black;
+
+}
+.S{
+    margin: 2%;
+    padding: 20px;
+    -webkit-text-fill-color: black;
+}
+.P{
+    margin: 2%;
+    padding: 20px;
+    -webkit-text-fill-color: black;
+}
+.C{
+    margin: 2%;
+    padding: 20px;
+    -webkit-text-fill-color: black;
+
+}.container{
+    margin: 2%;
+    padding: 20px;
+    
+}
+button{
+    background-color: rgb(54, 104, 234);
+    color: white;
+}
+.Image1{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+
+}
+ .Image2{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+ }  
+ #image{
+    display: flex;
+    justify-content: center;
+ }
+   
+    
+    
+
+     
+.Image3{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    
+
+    
+
+
+}
+h2{
+    color: rgb(245, 52, 63);
+}
+#words{
+    margin: 10%;
+    font-size: large;
+}
+span{
+    color: rgb(54, 104, 234);;
+}
+.Image4{
+
+}
+.Image5{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+#container2{
+    display: flex;
+    justify-content: center;
+}
+.Image7{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+.Image6{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+#container3{
+    display: flex;
+    justify-content: center;
+
+}
+#word3{
+    text-align: center;
+
+
+}
+.container4{
+    display: flex;
+    justify-content: space-between;
+
+
+
+
+}
+.team{
+    text-align: center;
+
+}
+#container5{
+    display: flex;
+    justify-content: center;
+}
+#Testimonial{
+    text-align: center;
+    justify-content: space-between;
+
+}
+#container7{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#image10{
+    height: 200px;
+    width: 200px;
+}
+.circle{
+    display: flex;
+    justify-content: space-between;
+}
+.image8{
+    border-radius: 50%;
+    margin: 30%;
+}
+.image9{
+    border-radius: 50%;
+    margin: 30%;
+}
+.image10{
+    border-radius: 50%;
+    margin: 30%;
+}
+#photo{
+    display: flex;
+    
+}
+#fig{
+    display: flex;
+    justify-content: space-between;
+
+}
+@media all and (max-width:500px)
+{body}
